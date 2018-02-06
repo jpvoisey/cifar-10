@@ -5,6 +5,8 @@ The cifar-10 dataset is used to implement random hyperparameter search in Tensor
 ### Hyperparameter Search
 cifar-10.ipynb is a Jupyter notebook, which implements the search
 
+cifar-10-Round3.ipynb is an extension of cifar-10.ipynb for the 3rd round of searching.
+
 ### Analysis
 Analysis.ipynb is a Jupyter notebook, which analyses results obtained.
 
